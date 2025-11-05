@@ -15,8 +15,6 @@ try FileDelete(macro_path)
 
 Sleep 5000
 
-try FileDelete(macro_path)
-MsgBox 'Click ok to start updating / downloading'
 
 try {
     g := GithubClass('SalmonDXH', 'Anime_Vanguard-Macro-2')
