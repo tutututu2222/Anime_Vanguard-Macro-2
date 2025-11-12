@@ -1,5 +1,5 @@
 # Anime Vanguard Macro (Forked)
-> ⚠️ This project is a **fork** of the original [Anime Vanguard Macro](https://github.com/tutututu2222/Anime_Vanguard-Macro).  
+> ⚠️ This project is a **fork** of the original [Anime Vanguard Macro]([https://github.com/tutututu2222/Anime_Vanguard-Macro](https://github.com/SalmonDXH/Anime_Vanguard-Macro-2)).  
 > Improvements, tweaks, or additional features may differ from the main repository.
 
 ---
