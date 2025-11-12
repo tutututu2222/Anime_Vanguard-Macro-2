@@ -1,5 +1,8 @@
-# Anime Vanguard Macro
-_Automation macro for the Anime Vanguard game software_
+# Anime Vanguard Macro (Forked)
+> ⚠️ This project is a **fork** of the original [Anime Vanguard Macro](https://github.com/tutututu2222/Anime_Vanguard-Macro).  
+> Improvements, tweaks, or additional features may differ from the main repository.
+
+---
 
 ## ⚙️ Overview
 This macro automates repetitive tasks in the game **Anime Vanguard**.  
@@ -54,11 +57,8 @@ If the game UI changes:
 - Do **not** distribute this macro publicly if it breaks any game or regional rules.
 
 ## 📝 Contribution
-Want to improve it?
-1. Fork this repo  
-2. Create a new branch  
-3. Commit your changes  
-4. Submit a pull request with clear explanations  
+This repository is a fork, but you’re welcome to:
+fork it, break it, marry it, or run it in production (we dare you). No NDAs, no "Premium Plans," just pure chaos and commits.
 
 ## 📬 Contact
 For questions or feedback, please open an **issue** on this GitHub repository.
